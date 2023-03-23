@@ -1,4 +1,4 @@
-package Practice;
+package Practice.random;
 
 import java.util.ArrayList;
 
