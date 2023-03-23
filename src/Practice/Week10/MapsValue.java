@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Week10;
 
 import java.util.*;
 
